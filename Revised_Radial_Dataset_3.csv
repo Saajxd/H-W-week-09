@@ -1,0 +1,25 @@
+,Country,Score,Overall_rank,Factors,value
+0,Finland,7.769,1,GDP_per_capita,1.34
+156,Finland,7.769,1,Social_support,1.587
+312,Finland,7.769,1,Healthy_life_expectancy,0.986
+468,Finland,7.769,1,Freedom_to_make_life_choices,0.596
+624,Finland,7.769,1,Generosity,0.153
+780,Finland,7.769,1,Perceptions_of_corruption,0.393
+79,Malaysia,5.339,80,GDP_per_capita,1.221
+235,Malaysia,5.339,80,Social_support,1.171
+391,Malaysia,5.339,80,Healthy_life_expectancy,0.828
+547,Malaysia,5.339,80,Freedom_to_make_life_choices,0.508
+703,Malaysia,5.339,80,Generosity,0.26
+859,Malaysia,5.339,80,Perceptions_of_corruption,0.024
+10,Australia,7.228,11,GDP_per_capita,1.372
+166,Australia,7.228,11,Social_support,1.548
+322,Australia,7.228,11,Healthy_life_expectancy,1.036
+478,Australia,7.228,11,Freedom_to_make_life_choices,0.557
+634,Australia,7.228,11,Generosity,0.332
+790,Australia,7.228,11,Perceptions_of_corruption,0.29
+155,S. Sudan,2.853,156,GDP_per_capita,0.306
+311,S. Sudan,2.853,156,Social_support,0.575
+467,S. Sudan,2.853,156,Healthy_life_expectancy,0.295
+623,S. Sudan,2.853,156,Freedom_to_make_life_choices,0.01
+779,S. Sudan,2.853,156,Generosity,0.202
+935,S. Sudan,2.853,156,Perceptions_of_corruption,0.091
